@@ -1,0 +1,560 @@
+[
+  {
+    "RETAILSTOREID": 1192,
+    "BUSINESSDAYDATE": 20191202,
+    "TRANSACTIONTYPECODE": 2446,
+    "WORKSTATIONID": 18,
+    "TRANSACTIONSEQUENCENUMBER": 166585,
+    "BEGINDATETIMESTAMP": 20191207783165,
+    "ENDDATETIMESTAMP": 20191210836176,
+    "OPERATORID": 2,
+    "TRANSACTIONCURRENCY": "USD",
+    "TILLID": "COMPLETE",
+    "ORIGBUSINESSDAYDATE": 0,
+    "ORDERID": 0,
+    "CUSTOMER": [
+      {
+        "CUSTOMERINFOTYPE": "CUST",
+        "RETAILSTOREID": 1648,
+        "BUSINESSDAYDATE": 20191214,
+        "TRANSACTIONTYPECODE": 2935,
+        "WORKSTATIONID": 11,
+        "TRANSACTIONSEQUENCENUMBER": 268833,
+        "FNAME": "Kellie",
+        "LNAME": "Mcclure",
+        "ADDRESS": "445 Livingston Street, Fingerville, Alabama, 659"
+      }
+    ],
+    "LINES": [
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 5,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 54,
+            "ITEMID": 3694,
+            "QUANTITY": 7,
+            "VENDORID": 7345,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 2,
+                "AMOUNT": 74
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 59,
+                "TAXSEQUENCE": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 5,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 66,
+            "ITEMID": 4468,
+            "QUANTITY": 3,
+            "VENDORID": 6945,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 10,
+                "AMOUNT": 15
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 75,
+                "TAXSEQUENCE": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 1,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 25,
+            "ITEMID": 1457,
+            "QUANTITY": 2,
+            "VENDORID": 4280,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 4,
+                "AMOUNT": 86
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 66,
+                "TAXSEQUENCE": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 2,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 47,
+            "ITEMID": 9880,
+            "QUANTITY": 6,
+            "VENDORID": 6118,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 5,
+                "AMOUNT": 86
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 76,
+                "TAXSEQUENCE": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 2,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 100,
+            "ITEMID": 3625,
+            "QUANTITY": 1,
+            "VENDORID": 4861,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 3,
+                "AMOUNT": 74
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 43,
+                "TAXSEQUENCE": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 7,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 23,
+            "ITEMID": 7657,
+            "QUANTITY": 7,
+            "VENDORID": 3774,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 5,
+                "AMOUNT": 60
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 92,
+                "TAXSEQUENCE": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 1,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 1,
+            "ITEMID": 6362,
+            "QUANTITY": 5,
+            "VENDORID": 9517,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 9,
+                "AMOUNT": 9
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 46,
+                "TAXSEQUENCE": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 5,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 75,
+            "ITEMID": 2292,
+            "QUANTITY": 8,
+            "VENDORID": 9140,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 8,
+                "AMOUNT": 95
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 14,
+                "TAXSEQUENCE": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 3,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 98,
+            "ITEMID": 2424,
+            "QUANTITY": 9,
+            "VENDORID": 4432,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 2,
+                "AMOUNT": 76
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 14,
+                "TAXSEQUENCE": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 8,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 68,
+            "ITEMID": 2966,
+            "QUANTITY": 8,
+            "VENDORID": 2890,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 6,
+                "AMOUNT": 39
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 10,
+                "TAXSEQUENCE": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "RETAILSTOREID": 1205,
+    "BUSINESSDAYDATE": 20191217,
+    "TRANSACTIONTYPECODE": 2886,
+    "WORKSTATIONID": 30,
+    "TRANSACTIONSEQUENCENUMBER": 197334,
+    "BEGINDATETIMESTAMP": 20191210381885,
+    "ENDDATETIMESTAMP": 20191204510000,
+    "OPERATORID": 9,
+    "TRANSACTIONCURRENCY": "USD",
+    "TILLID": "COMPLETE",
+    "ORIGBUSINESSDAYDATE": 0,
+    "ORDERID": 0,
+    "CUSTOMER": [
+      {
+        "CUSTOMERINFOTYPE": "CUST",
+        "RETAILSTOREID": 1506,
+        "BUSINESSDAYDATE": 20191210,
+        "TRANSACTIONTYPECODE": 2984,
+        "WORKSTATIONID": 30,
+        "TRANSACTIONSEQUENCENUMBER": 255223,
+        "FNAME": "Amber",
+        "LNAME": "Conrad",
+        "ADDRESS": "945 Hope Street, Hayden, Virgin Islands, 4328"
+      }
+    ],
+    "LINES": [
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 5,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 57,
+            "ITEMID": 9557,
+            "QUANTITY": 8,
+            "VENDORID": 8563,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 8,
+                "AMOUNT": 20
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 45,
+                "TAXSEQUENCE": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 2,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 52,
+            "ITEMID": 9058,
+            "QUANTITY": 2,
+            "VENDORID": 3631,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 10,
+                "AMOUNT": 42
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 9,
+                "TAXSEQUENCE": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 6,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 55,
+            "ITEMID": 7320,
+            "QUANTITY": 4,
+            "VENDORID": 7311,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 1,
+                "AMOUNT": 90
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 68,
+                "TAXSEQUENCE": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 7,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 37,
+            "ITEMID": 5535,
+            "QUANTITY": 3,
+            "VENDORID": 5209,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 1,
+                "AMOUNT": 69
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 92,
+                "TAXSEQUENCE": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 6,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 48,
+            "ITEMID": 1023,
+            "QUANTITY": 6,
+            "VENDORID": 8507,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 4,
+                "AMOUNT": 40
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 58,
+                "TAXSEQUENCE": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 7,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 46,
+            "ITEMID": 9014,
+            "QUANTITY": 8,
+            "VENDORID": 7661,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 3,
+                "AMOUNT": 32
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 40,
+                "TAXSEQUENCE": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 8,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 71,
+            "ITEMID": 3121,
+            "QUANTITY": 3,
+            "VENDORID": 2520,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 2,
+                "AMOUNT": 42
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 40,
+                "TAXSEQUENCE": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 1,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 45,
+            "ITEMID": 1982,
+            "QUANTITY": 10,
+            "VENDORID": 5607,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 6,
+                "AMOUNT": 98
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 62,
+                "TAXSEQUENCE": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 2,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 31,
+            "ITEMID": 2423,
+            "QUANTITY": 4,
+            "VENDORID": 9998,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 3,
+                "AMOUNT": 85
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 67,
+                "TAXSEQUENCE": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "LINEITEMS": [
+          {
+            "LINENUMBER": 6,
+            "ENTRYMETHOD": "SCAN",
+            "SALESPRICE": 66,
+            "ITEMID": 9218,
+            "QUANTITY": 1,
+            "VENDORID": 2877,
+            "DISCOUNTS": [
+              {
+                "DISCOUNTID": 7,
+                "AMOUNT": 84
+              }
+            ],
+            "TAX": [
+              {
+                "TAXTYPE": "ZCUX",
+                "TAXAMOUNT": 75,
+                "TAXSEQUENCE": 10
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
