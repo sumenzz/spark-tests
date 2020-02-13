@@ -15,11 +15,6 @@
     "CUSTOMER": [
       {
         "CUSTOMERINFOTYPE": "CUST",
-        "RETAILSTOREID": 1648,
-        "BUSINESSDAYDATE": 20191214,
-        "TRANSACTIONTYPECODE": 2935,
-        "WORKSTATIONID": 11,
-        "TRANSACTIONSEQUENCENUMBER": 268833,
         "FNAME": "Kellie",
         "LNAME": "Mcclure",
         "ADDRESS": "445 Livingston Street, Fingerville, Alabama, 659"
@@ -294,11 +289,6 @@
     "CUSTOMER": [
       {
         "CUSTOMERINFOTYPE": "CUST",
-        "RETAILSTOREID": 1506,
-        "BUSINESSDAYDATE": 20191210,
-        "TRANSACTIONTYPECODE": 2984,
-        "WORKSTATIONID": 30,
-        "TRANSACTIONSEQUENCENUMBER": 255223,
         "FNAME": "Amber",
         "LNAME": "Conrad",
         "ADDRESS": "945 Hope Street, Hayden, Virgin Islands, 4328"
